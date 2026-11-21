@@ -1,4 +1,6 @@
 # cloud-itonami-isco-5120
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 5120. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 5120。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 Open Occupation Blueprint for **ISCO-08 5120**: Cooks.
 
